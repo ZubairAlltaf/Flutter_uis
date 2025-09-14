@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "4674733990",
+    "project_id": "flutter-dev-uis",
+    "storage_bucket": "flutter-dev-uis.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4674733990:android:78603eb383acca0833b167",
+        "android_client_info": {
+          "package_name": "com.innitech.flutteruis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE0xMjgdG8jeLo9V4nqPt6YKBmF8vBrM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
